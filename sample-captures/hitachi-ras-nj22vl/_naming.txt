@@ -1,0 +1,5 @@
+Hot, Dry, Cool
+\#\# temp
+Auto, High, Medium, Low
+Fixed fans, Moving fans
+TIMER INFO
